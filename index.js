@@ -36,4 +36,4 @@ kittens =
    return [name, ...kittens]
  }
  
- 
+ function
